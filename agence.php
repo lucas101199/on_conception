@@ -1,0 +1,91 @@
+<?php include("header.php"); ?>
+
+<body>
+<div class="main_agence">
+<div class="section">
+    <h1 id="title"> L'AGENCE ON CONCEPTION </h1>
+    <p>ON c'est la position d'un bouton marche/arrêt. ON c'est l'homme en général, les gens , 
+        l'opinion. <br />
+        ON c'est moi et toi, c'est nous et vous, ensemble.
+    </p>
+
+    <h2>Mais... </h2>
+
+    <p>ON c'est surtout un studio de conception qui conceptualise et matérialise, avec un malin plaisir, des univers 
+        visuels atypiques et éclectiques qui sauront inspirer une image de marque solide et différenciante.  </p>
+
+    <div class="photo_agence">
+        <img src="" alt="" />
+        <img src="" alt="" />
+        <img src="" alt="" />
+    </div>
+
+    <h2>CONCEPTION</h2>
+
+    <p>Les fondations de votre communication visuelle </p>
+    <p>Vous souhaitez MARQUER, vous faire REMARQUER, instaurer un positionnement solide ? 
+        Nous intervenons dans le cadre d’une création, ou d’une refonte d’identité visuelle. 
+        Nous posons les jalons d’un univers graphique impactant, et assurons la direction artistique 
+        du projet dans sa globalité pour une plus grande cohérence. </p>
+    <ul>
+        <li>Identité visuelle / Charte graphique </li>
+        <li>Webdesign et supports digitaux </li>
+    </ul>
+
+    <br />
+    
+    <h2>MATERIALISATION </h2>
+    <p>Création de contenu iconographique </p>
+    <p>Nous prolongeons notre logique de conception dans la réalisation de matières iconographiques 
+        fixes et animées, sur la base de “SET DESIGN” identitaire. Une valeur visuelle souvent délaissée 
+        bien qu’elle soit la matière première de toute communication. </p>
+    <ul>
+        <li>Photographie </li>
+        <li>Illustration </li>
+        <li>Vidéo </li>
+    </ul>
+</div>
+<div class="side-bar">
+<p><span class="red">DATE DE CREATION</span> <br />
+
+    <span class="small">2017</span> <br />
+
+    <span class="red">EFFECTIF</span> <br />
+
+    <span class="small">2 PERSONNES + STAFF ADDITIONNEL</span> <br />
+
+    <span class="red">SIEGE</span> <br />
+
+    <span class="small">GENEVE</span> <br />
+
+    <span class="red">TERRITOIRE</span> <br />
+
+    <span class="small">SUISSE</span> </p>
+
+    <p>“ON conception est un condensé de tout ce qui me passionne. J’aime créer de nouveaux concepts, 
+        mettre des images sur vos idées, concrétiser des projets, réaliser les rêves de personnes ambitieuses 
+        et déterminées. EMOTION est la valeur principale de ON conception.”</p>
+</div>
+</div>
+
+<table>
+    <tr>
+        <td><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+        <td><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+        <td><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+        <td><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+    </tr>
+    <tr>
+        <td>VIDEO CORPORATE</td>
+        <td>VIDEO EVENEMENTIEL</td>
+        <td>VIDEO EDITORIALE</td>
+        <td>VIDEO PROMOTIONNELLE</td>
+    </tr>
+    <tr>
+        <td>Film corporate, explainers (tutoriel video), web tv, valorisez l’image de votre entreprise.</td>
+        <td>Teaser, plateau télé, animations scénographiques, vidéo mapping, créez l’événement dans votre évènement.</td>
+        <td>Interviews, portraits, reportages, émissions, animez votre communication grâce à des contenus journalistiques.</td>
+        <td>Spots publicitaires, présentation de produits, support commerciaux, exploitez toute la puissance de la vidéo pour booster vos actions marketing.</td>
+    </tr>
+</table>
+</body>

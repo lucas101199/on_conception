@@ -1,0 +1,44 @@
+body {
+    color: white;
+    margin-left: 5%;
+}
+
+.section {
+    width: 75%;
+}
+
+.side-bar {
+    width: 20%;
+    padding-top: 10%; 
+}
+
+.main_agence {
+    display: flex;
+    justify-content: space-between;
+}
+
+.red {
+    color: red;
+    font-size: large;
+}
+
+.small {
+    font-size: small; 
+}
+
+#title {
+    text-align: right;
+    padding-right: 14%;
+    margin-bottom: 5%;
+    font-size: 35px;
+}
+
+ul {
+    list-style: none;
+}
+
+li::before {
+    content: "•"; 
+    color: red;
+    margin-right: 1%;
+}
