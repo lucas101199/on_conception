@@ -1,23 +1,33 @@
-<!DOCTYPE html>
-<html>
-<title>On_conception</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="header.css">
-<link rel="stylesheet" href="body.css">
-<link rel="stylesheet" href="main.css">
-
 <header>
-    <nav>
-        <ul>
-            <li class="logo"><a href="home.php"><img src="image/logo_on.png" alt="logo" /></a></li>
-            <li><a href="agence.php">L'AGENCE</a></li>
-            <li><a href="real.php">REALISATIONS</a></li>
-            <li><a href="job.php">NOTRE JOB</a></li>
-            <li><a href="news.php">NEWS</a></li>
-            <li><a href="contact.php">CONTACT</a></li>
-            <!--<li class="logo-moblie"><a href="#"><img src="image/logo_on.png" alt="logo" /></a></li>
-            <li class="nav-small"><a href="#"><img src="" alt="" /></a></li> -->
-        </ul>
+    <nav class="navbar navbar-expand-sm ">
+    <!-- Brand -->
+    <a class="navbar-brand" href="home.php"><img src="image/logo_on.png" alt="logo" /></a>
+
+    <!-- Links -->
+    <ul class="navbar-nav" style="list-style-type:none;">
+        <li class="nav-item">
+        <a class="nav-link" href="agence.php">L'AGENCE</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="real.php">REALISATIONS</a>
+        </li>
+    
+        <!-- Dropdown -->
+        <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="job.php" id="navbardrop" data-toggle="dropdown">NOTRE JOB</a>
+        <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">FILMS</a>
+            <a class="dropdown-item" href="#">MOTION</a>
+            <a class="dropdown-item" href="#">PHOTOS</a>
+        </div>
+        </li>
+
+        <li class="nav-item">
+        <a class="nav-link" href="news.php">NEWS</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="contact.php">CONTACT</a>
+        </li>
+    </ul>
     </nav>
 </header>

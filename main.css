@@ -1,5 +1,8 @@
+
+
 body {
     color: white;
+    background-color: black; 
     margin-left: 5%;
 }
 
@@ -37,8 +40,40 @@ ul {
     list-style: none;
 }
 
-li::before {
-    content: "•"; 
+li.circle::before {
+    content: "•";
     color: red;
     margin-right: 1%;
 }
+
+.giphy {
+    width: 75%;
+    height: 100%;
+}
+
+.row {
+    text-align: center;
+    margin-right: 7%;
+}
+
+.col {
+    margin-left: 3%;
+}
+
+nav {
+    width: 100%;
+    background-color: white;
+}
+
+li.nav-item a {
+    color: black;
+    display: inline;
+}
+
+li.nav-item::before {
+    content: "◆";
+    color: red;
+}
+
+
+
