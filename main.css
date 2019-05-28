@@ -1,9 +1,11 @@
-
-
 body {
     color: white;
     background-color: black; 
     margin-left: 5%;
+}
+
+header {
+    margin-top: 2%;
 }
 
 .section {
@@ -60,20 +62,46 @@ li.circle::before {
     margin-left: 3%;
 }
 
-nav {
+.navbar {
     width: 100%;
     background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
 }
 
-li.nav-item a {
+
+/*    content: "◆";*/
+    
+.topnav {
+    overflow: hidden;
+    
+}
+
+.topnav a {
     color: black;
-    display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.topnav a.active {
+    border: 1px solid gray;
+    border-radius: 12px; 
+    padding: 2px 2px 2px 2px;
 }
 
-li.nav-item::before {
-    content: "◆";
-    color: red;
+.topnav-right {
+    margin-right: 3%;
+    width: 10%;
 }
 
+.topnav-right a{
+    color: black;
+    margin-left: 8%;
+}
 
-
+rect {
+    fill: red;
+}
