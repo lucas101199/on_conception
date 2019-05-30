@@ -16,7 +16,7 @@
   <header>
     <nav class="navbar">
     <div class="topnav">
-        <a href="home.php"><img src="image/logo_on.png" alt="logo" /></a>
+        <a href="home.php"><img src="image/logo_on_blanc.png" alt="logo" /></a>
         <a href="agence.php">L'AGENCE</a>
         <svg width="31" height="31">
             <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
@@ -49,7 +49,7 @@
         <div class="icon_play">
             <i class="far fa-play-circle fa-10x"></i>
         </div>
-        <div class="logo"><img src="image/logo_on.png"></div>
+        <div class="logo"><img src="image/logo_on.PNG"></div>
         </div>
         <div class="presentation">
             <h1>PENDANT CE TEMPS</h1>
