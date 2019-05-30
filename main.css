@@ -1,3 +1,7 @@
+html {
+    width: 100%;
+    height: auto;
+}
 body {
     color: white;
     background-color: black; 
@@ -104,4 +108,20 @@ li.circle::before {
 
 rect {
     fill: red;
+}
+
+.start {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 12%; 
+}
+
+.logo {
+    margin-left: 27%;
+}
+
+.icon_play {
+    color: gray ;
+    font-size: 30px;
 }

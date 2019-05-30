@@ -44,6 +44,17 @@
     </nav>
 
   </header>
+  <body>
+        <div class="start">
+        <div class="icon_play">
+            <i class="far fa-play-circle fa-10x"></i>
+        </div>
+        <div class="logo"><img src="image/logo_on.png"></div>
+        </div>
+        <div class="presentation">
+            <h1>PENDANT CE TEMPS</h1>
+        </div>
+  </body>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
