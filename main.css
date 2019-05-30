@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    margin-top: 2%;
+    margin-top: 2%; 
 }
 
 .section {
@@ -129,5 +129,20 @@ h1 {
 
 .logo img {
     width: 200px;
+    height: auto;
+    padding-top: 15%;
+}
+
+#presente {
+    text-align: center;
+}
+
+.presentation {
+    margin-top: 20%;
+}
+
+.presentation img {
+    margin-left: -5%;
+    width: 105%;
     height: auto;
 }
