@@ -115,7 +115,7 @@ rect {
 }
 
 .logo {
-    margin-left: 27%;
+    margin-left: 22%;
 }
 
 .icon_play {
@@ -125,4 +125,9 @@ rect {
 
 h1 {
     text-align: center;
+}
+
+.logo img {
+    width: 200px;
+    height: auto;
 }
