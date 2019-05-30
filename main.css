@@ -73,9 +73,6 @@ li.circle::before {
     flex-direction: row;
     align-items: baseline;
 }
-
-
-/*    content: "◆";*/
     
 .topnav {
     overflow: hidden;
@@ -124,4 +121,8 @@ rect {
 .icon_play {
     color: gray ;
     font-size: 30px;
+}
+
+h1 {
+    text-align: center;
 }

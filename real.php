@@ -16,7 +16,7 @@
   <header>
     <nav class="navbar">
     <div class="topnav">
-        <a href="home.php"><img src="image/logo_on.png" alt="logo" /></a>
+        <a href="home.php"><img src="image/logo_on_blanc.png" alt="logo" /></a>
         <a href="agence.php" >L'AGENCE</a>
         <svg width="31" height="31">
             <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
