@@ -49,7 +49,7 @@
         <div class="icon_play">
             <i class="far fa-play-circle fa-10x"></i>
         </div>
-        <div class="logo"><img src="image/logo_on.png"></div>
+        <div class="logo"><img src="image/logo_on.PNG"></div>
         </div>
         <div class="presentation">
             <h1>PENDANT CE TEMPS</h1>
