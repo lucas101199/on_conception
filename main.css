@@ -9,7 +9,9 @@ body {
 }
 
 header {
-    margin-top: 2%; 
+    width: 100%;
+    margin-top: -10%; 
+    position: fixed ;
 }
 
 .section {
@@ -66,40 +68,24 @@ li.circle::before {
     margin-left: 3%;
 }
 
-.navbar {
+.navba {
     width: 100%;
     background-color: white;
-    display: flex;
-    flex-direction: row;
-    align-items: baseline;
+    top: 2%;
 }
     
-.topnav {
-    overflow: hidden;
-}
-
-.topnav a {
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
+a {
     text-decoration: none;
-    font-size: 17px;
-  }
-
-.topnav a.active {
-    border: 1px solid gray;
-    border-radius: 12px; 
-    padding: 2px 2px 2px 2px;
 }
 
 .topnav-right {
-    margin-right: 3%;
-    width: 10%;
+    margin-left: 10%;
+    display: inline; 
 }
 
 .topnav-right a{
     color: black;
-    margin-left: 8%;
+    margin-left: 1%;
     size: 20px;
 }
 
@@ -191,7 +177,6 @@ h1 {
 .align-compteur p{
     display: flex;
     justify-content: space-around; 
-    
     margin-bottom: 5%;
 }
 
