@@ -10,66 +10,13 @@
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="navbar.css">
-  
-  </head>
-
-  <header>
-       <div class="navba">
-            <a href="index.html"><img src="image/logo_on_blanc.png" alt="logo"/></a>
-            <a href="agence.html">L'AGENCE</a>
-            <svg width="31" height="31">
-                    <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
-            </svg>
-            <a href="real.html">REALISATIONS</a>
-            <svg width="31" height="31">
-                    <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
-            </svg>
-            <div class="dropdow">
-                  <button class="dropbt">NOTRE JOB 
-                    <i class="fa fa-caret-down"></i>
-                  </button>
-                  <div class="dropdown-conten">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                  </div>
-            </div>
-            <svg width="31" height="31">
-                    <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
-            </svg>
-            <a href="news.html">NEWS</a>
-            <svg width="31" height="31">
-                    <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
-            </svg>
-            <a href="contact.html">CONTACT</a>
-            <div class="topnav-right">
-                <a href="https://www.youtube.com/channel/UCjq0mQHVEfTHfHK3Ml8xhcg"><i class="fab fa-youtube"></i></a>
-                <a href="https://www.instagram.com/on.conception/"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-facebook-square"></i></a>
-                <a href="#"><i class="fab fa-whatsapp"></i></a>
-            </div>
-        </div>
+    <link rel="stylesheet" href="main.css">
     
-        
-    </header>   
-  
+  </head>
+ 
   <body>
-       <!-- <div class="navba">
-                <a href="#home">Home</a>
-                <a href="#news">News</a>
-                <div class="dropdow">
-                  <button class="dropbt">Dropdown 
-                    <i class="fa fa-caret-down"></i>
-                  </button>
-                  <div class="dropdown-conten">
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
-                    <a href="#">Link 3</a>
-                  </div>
-                </div> 
-              </div> -->
+        <?php include('header.php'); ?>
         <div class="start">
         <div class="icon_play">
             <i class="far fa-play-circle fa-10x"></i>
@@ -82,28 +29,29 @@
         <div class="presentation">
             <h1>PENDANT CE TEMPS</h1>
             <div class="compteur">
-                <div class="align-compteur">
-                    <i class="fas fa-camera"></i>
+              <img src="image/film-production1.jpg">
+                <div class="align-compteur1">
+                    <i class="fas fa-camera fa-2x"></i>
                     <p id="compteur1">0</p>
                     <p id="subtitle">VIDEOS REALISEES</p>
                 </div>
-                <div class="align-compteur">
-                    <i class="fas fa-glasses"></i>
+                <div class="align-compteur2">
+                    <i class="fas fa-glasses fa-2x"></i>
                     <p id="compteur2">0</p>
                     <p id="subtitle">VUES</p>
                 </div>
-                <div class="align-compteur">
-                    <i class="fas fa-hdd"></i>
+                <div class="align-compteur3">
+                    <i class="fas fa-hdd fa-2x"></i>
                     <p id="compteur3">0</p>
                     <p id="subtitle">TERA STOCKES</p>
                 </div>
-                <div class="align-compteur">
-                    <i class="fas fa-walking"></i>
+                <div class="align-compteur4">
+                    <i class="fas fa-walking fa-2x"></i>
                     <p id="compteur4">0</p>
                     <p id="subtitle">KM PARCOURUS</p>
                 </div>
-                <div class="align-compteur">
-                    <i class="fab fa-java"></i>
+                <div class="align-compteur5">
+                    <i class="fab fa-java fa-2x"></i>
                     <p id="compteur5">0</p>
                     <p id="subtitle">CAFE BUS/JOUR</p>
                 </div>
@@ -119,9 +67,57 @@
                     <a href="#"><i class="fab fa-facebook-square"></i></a>
                     <a href="#"><i class="fab fa-whatsapp"></i></a>
                 </div>
+                <div class="petit_logo">
+                    <img src="image/logo_on_blanc.png">
+                    <p>conception</p>
+                </div>
+                <div class="tel">
+                    <i class="fas fa-phone"></i>
+                    <p>+41 79 955 36 43</p>
+                </div>
+                <div class="mail">
+                    <i class="far fa-envelope"></i>
+                    <a href="mailto:ON.CONCEPTION@gmail.com">ON.CONCEPTION@gmail.com</a>
+                </div>
             </div>
             <div class="contact">
-            
+                <h4>UN RENDEZ-VOUS, UNE QUESTION, UN CAFE ?</h4>
+                <form class="form">
+                    <div class="premier">
+                        <div class="societe">
+                            <label for="societe">SOCIETE</label>
+                            <input type="text" id="societe" name="societe">
+                        </div>
+                        <div class="fonction">
+                            <label for="fonction">FONCTION*</label>
+                            <input type="text" id="fonction" name="fonction" required>
+                        </div>
+                    </div>
+                    <div class="second">
+                        <div class="nom">
+                            <label for="nom">NOM*</label>
+                            <input type="text" id="nom" name="nom" required>
+                        </div>
+                        <div class="prenom">
+                            <label for="prenom">PRENOM*</label>
+                            <input type="text" id="prenom" name="prenom" required>
+                        </div>
+                    </div>
+                    <div class="troisieme">
+                        <div class="email">
+                            <label for="mail">MAIL*</label>
+                            <input type="mail" id="mail" name="mail" required>
+                        </div>
+                        <div class="telephone">
+                            <label for="tel">TELEPHONE*</label>
+                            <input type="tel" id="tel" name="tel" required>
+                        </div>
+                    </div>
+                    <div class="dernier">
+                        <label for="message">MESSAGE*</label>
+                        <textarea name="message" rows="4" required></textarea>
+                    </div>
+                </form>
             </div>
         </div>
   </body>
@@ -133,5 +129,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="count.js"></script>
-</body>
 </html>

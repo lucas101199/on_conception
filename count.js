@@ -23,7 +23,8 @@ var delta1 = Math.ceil((duree1 * 1000) / n1);
 var node1 =  document.getElementById("compteur2");
 
 function countdown1() {
-    node1.innerHTML = ++cpt1*10;
+   var nombre = ++cpt1*10;
+    node1.innerHTML = nombre.toLocaleString("de-CH");
     if( cpt1*10 < n1 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
        setTimeout(countdown1);
     }
@@ -55,7 +56,8 @@ var delta4 = Math.ceil((duree4 * 1000) / n4);
 var node4 =  document.getElementById("compteur4");
 
 function countdown4() {
-    node4.innerHTML = ++cpt4*16;
+   var nombre = ++cpt4*16;
+    node4.innerHTML = nombre.toLocaleString("de-CH");
     if( cpt4*16.816 < n4 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
        setTimeout(countdown4);
     }

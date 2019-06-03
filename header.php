@@ -1,33 +1,35 @@
-<header>
-    <nav class="navbar navbar-expand-sm ">
-    <!-- Brand -->
-    <a class="navbar-brand" href="home.php"><img src="image/logo_on.png" alt="logo" /></a>
-
-    <!-- Links -->
-    <ul class="navbar-nav" style="list-style-type:none;">
-        <li class="nav-item">
-        <a class="nav-link" href="agence.php">L'AGENCE</a>
-        </li>
-        <li class="nav-item">
-        <a class="nav-link" href="real.php">REALISATIONS</a>
-        </li>
-    
-        <!-- Dropdown -->
-        <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="job.php" id="navbardrop" data-toggle="dropdown">NOTRE JOB</a>
-        <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">FILMS</a>
-            <a class="dropdown-item" href="#">MOTION</a>
-            <a class="dropdown-item" href="#">PHOTOS</a>
-        </div>
-        </li>
-
-        <li class="nav-item">
-        <a class="nav-link" href="news.php">NEWS</a>
-        </li>
-        <li class="nav-item">
-        <a class="nav-link" href="contact.php">CONTACT</a>
-        </li>
-    </ul>
-    </nav>
-</header>
+<div class="navba">
+          <a href="index.php"><img src="image/logo_on_blanc.png" alt="logo"/></a>
+          <a href="agence.php">L'AGENCE</a>
+          <svg width="31" height="31">
+                  <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
+          </svg>
+          <a href="real.php">REALISATIONS</a>
+          <svg width="31" height="31">
+                  <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
+          </svg>
+          <div class="dropdow">
+                <button class="dropbt">NOTRE JOB 
+                  <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-conten">
+                  <a href="#">Link 1</a>
+                  <a href="#">Link 2</a>
+                  <a href="#">Link 3</a>
+                </div>
+          </div>
+          <svg width="31" height="31">
+                  <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
+          </svg>
+          <a href="news.php">NEWS</a>
+          <svg width="31" height="31">
+                  <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
+          </svg>
+          <a href="contact.php">CONTACT</a>
+          <div class="topnav-right">
+              <a href="https://www.youtube.com/channel/UCjq0mQHVEfTHfHK3Ml8xhcg"><i class="fab fa-youtube"></i></a>
+              <a href="https://www.instagram.com/on.conception/"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-facebook-square"></i></a>
+              <a href="#"><i class="fab fa-whatsapp"></i></a>
+          </div>
+      </div>
