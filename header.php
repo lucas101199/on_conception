@@ -13,9 +13,9 @@
                   <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-conten">
-                  <a href="#">Link 1</a>
-                  <a href="#">Link 2</a>
-                  <a href="#">Link 3</a>
+                  <a href="films.php">FILMS</a>
+                  <a href="motion.php">MOTION</a>
+                  <a href="photos.php">PHOTOS</a>
                 </div>
           </div>
           <svg width="31" height="31">
