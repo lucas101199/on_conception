@@ -21,7 +21,7 @@ body {
     top: 10;
 }
 
-.main_agence, .main_film {
+.main_agence, .main_film, .main_motion, .main_photos {
     display: flex;
     justify-content: space-between;
 }
@@ -433,11 +433,11 @@ textarea {
     margin-bottom: 0px;
 }
 
-.section_film {
+.section_film, .section_motion, .section_photos {
     width: 78%;
     font-size: 20px;
 }
 
-.film {
+.film, .motion, .photos {
     margin-top: 6%;
 }

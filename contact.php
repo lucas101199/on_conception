@@ -16,7 +16,8 @@
 
               
 <body>
-    <?php include('header.php'); ?>          
+    <?php include('header.php'); ?>
+    <?php include('contact_include.php'); ?>          
                                 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -44,12 +44,12 @@
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/DM Performance FILM.mov">
+                <source src="image/Realisations/DM Performance FILM.mov#t=8">
             </video>
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov">
+                <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov#t=8">
             </video>
         </div>
         <div class="photo photos">
@@ -57,7 +57,7 @@
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Evoluxury Full Version FILM.mov">
+                <source src="image/Realisations/Evoluxury Full Version FILM.mov#t=14">
             </video>
         </div>
         <div class="photo photos">
@@ -91,7 +91,7 @@
         </div>
         <div class="photo motion">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/L&JR MOTION.mp4">
+                <source src="image/Realisations/L&JR MOTION.mp4#t=2">
             </video>
         </div>
         <div class="photo photos">
@@ -108,7 +108,7 @@
         </div>
         <div class="photo motion">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Slow Motion MOTION.mp4">
+                <source src="image/Realisations/Slow Motion MOTION.mp4#t=3">
             </video>
         </div>
         <div class="photo photos">
@@ -128,7 +128,7 @@
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Swiss Wash FILM.mov">
+                <source src="image/Realisations/Swiss Wash FILM.mov#t=16">
             </video>
         </div>
         <div class="photo photos">
@@ -142,17 +142,17 @@
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Teaser Swiss Wash FILM.mp4">
+                <source src="image/Realisations/Teaser Swiss Wash FILM.mp4#t=1">
             </video>
         </div>
         <div class="photo film">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Viquo Deco FILM.mp4">
+                <source src="image/Realisations/Viquo Deco FILM.mp4#t=4">
             </video>
         </div>
         <div class="photo motion">
             <video width="400" height="190" controls>
-                <source src="image/Realisations/Your Concept By MOTION.mov">
+                <source src="image/Realisations/Your Concept By MOTION.mov#t=4">
             </video>
         </div>
     </div>
