@@ -16,7 +16,38 @@
 
 <body>
     <?php include('header.php'); ?>             
-                    
+    
+    <h1 id="real">REALISATIONS</h1>
+
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterSelection('all')"> ALL</button>
+      <button class="btn" onclick="filterSelection('nature')"> FILMS</button>
+      <button class="btn" onclick="filterSelection('cars')"> MOTION</button>
+      <button class="btn" onclick="filterSelection('people')"> PHOTOS</button>
+    </div>
+
+    <div class="contenu">
+        <div class="photo">
+            <img src="image/Realisations/DM performance 2 PHOTO.png">
+        </div>
+        <div class="photo">
+            <img src="image/Realisations/DM Performance PHOTO copie 2.jpeg">
+        </div>
+        <div class="photo">
+            <img src="image/Realisations/DM performance PHOTO copie.jpeg">
+        </div>
+        <div class="photo">
+            <img src="image/Realisations/Dm Performance PHOTO.jpeg">
+        </div>
+        <div class="photo">
+            <img src="image/Realisations/DM performance PHOTO.png">
+        </div>
+        <div class="photo">
+            <video width="400" height="190" controls>
+                <source src="image/Realisations/DM Performance FILM.mov">
+            </video>
+        </div>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -9,12 +9,6 @@ body {
     margin-left: 5%;
 }
 
-header {
-    width: 100%;
-    margin-top: -10%; 
-    position: fixed ;
-}
-
 .section {
     width: 75%;
 }
@@ -22,7 +16,9 @@ header {
 .side-bar {
     width: 20%;
     padding-top: 10%; 
-    position: fixed;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 10;
 }
 
 .main_agence {
@@ -374,4 +370,28 @@ textarea {
 
 .photo_agence {
     text-align: center;
+}
+
+#myBtnContainer {
+    display: flex;
+    justify-content: center ;
+    margin-top: 3%;
+}
+
+.btn {
+    color: white ;
+    text-align: center ;
+    margin-left: 4%;
+}
+
+#real {
+    margin-top: 4%;
+}
+
+.photo img{
+    float: left;
+    width: 400px;
+    height: 190px;
+    margin-left: 1%;
+    margin-bottom: 1%;
 }
