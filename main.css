@@ -388,7 +388,7 @@ textarea {
     margin-top: 4%;
 }
 
-.photo img, .photo video{
+.photo img, .photo video, .photos{
     float: left;
     width: 400px;
     height: 240px;
@@ -438,6 +438,7 @@ textarea {
     font-size: 20px;
 }
 
-.film, .motion, .photos {
+.film, .motion, ._photos {
     margin-top: 6%;
 }
+
