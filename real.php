@@ -27,130 +27,130 @@
     </div>
 
     <div class="contenu">
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/DM performance 2 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/DM Performance PHOTO copie 2.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/DM performance PHOTO copie.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Dm Performance PHOTO.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/DM performance PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/DM Performance FILM.mov">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Evoluxury 2 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Evoluxury Full Version FILM.mov">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Evoluxury PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Horlogerie PHOTO.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Impala PHOTO copie.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Impala PHOTO.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/L&JR 2 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/L&JR 3 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/L&JR 4 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/L&JR 5 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/L&JR Baselworld 2019 FILM.mov">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo motion">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/L&JR MOTION.mp4">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/L&JR PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Motors &co PHOTO copie.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Motors &co PHOTO.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/Paris PHOTO.jpeg">
         </div>
-        <div class="photo">
+        <div class="photo motion">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Slow Motion MOTION.mp4">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash 2 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash 3 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash 4 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash 5 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash 6 PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Swiss Wash FILM.mov">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/swiss wash PHOTO.png">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/SWISSWash 7 PHOTO.jpg">
         </div>
-        <div class="photo">
+        <div class="photo photos">
             <img src="image/Realisations/SWISSWash 8 PHOTO.jpg">
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Teaser Swiss Wash FILM.mp4">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo film">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Viquo Deco FILM.mp4">
             </video>
         </div>
-        <div class="photo">
+        <div class="photo motion">
             <video width="400" height="190" controls>
                 <source src="image/Realisations/Your Concept By MOTION.mov">
             </video>
