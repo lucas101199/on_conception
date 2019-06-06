@@ -10,7 +10,6 @@
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <link rel="stylesheet" href="navbar.css">
     <link rel="stylesheet" href="main.css">
     
   </head>
@@ -30,82 +29,82 @@
                 <p>Branding lifestyle, moody, événementiel, studio, portraits ou packshots ... 
                     Toutes les raisons sont bonnes pour faire appel à nous !</p>
                 <div class="_photos">
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/DM performance 2 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/DM Performance PHOTO copie 2.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/DM performance PHOTO copie.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Dm Performance PHOTO.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/DM performance PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Evoluxury 2 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Evoluxury PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Horlogerie PHOTO.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Impala PHOTO copie.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Impala PHOTO.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/L&JR 2 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/L&JR 3 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/L&JR 4 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/L&JR 5 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/L&JR PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Motors &co PHOTO copie.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Motors &Co PHOTO.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/Paris PHOTO.jpeg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash 2 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash 3 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash 4 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash 5 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash 6 PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/swiss wash PHOTO.png">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/SWISSWash 7 PHOTO.jpg">
                     </div>
-                    <div class="photos">
+                    <div class="foto">
                         <img src="image/Realisations/SWISSWash 8 PHOTO.jpg">
                     </div>
                 </div>
