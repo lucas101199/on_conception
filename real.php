@@ -30,13 +30,13 @@
             <img src="image/Realisations/DM performance 2 PHOTO.png">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/DM Performance PHOTO copie 2.jpeg">
+            <img src="image/Realisations/DM-Performance-PHOTO-copie-2.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/DM performance PHOTO copie.jpeg">
+            <img src="image/Realisations/DM-performance-PHOTO-copie.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Dm Performance PHOTO.jpeg">
+            <img src="image/Realisations/Dm-Performance-PHOTO.jp2">
         </div>
         <div class="photo photos">
             <img src="image/Realisations/DM performance PHOTO.png">
@@ -63,13 +63,13 @@
             <img src="image/Realisations/Evoluxury PHOTO.png">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Horlogerie PHOTO.jpeg">
+            <img src="image/Realisations/Horlogerie-PHOTO.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Impala PHOTO copie.jpeg">
+            <img src="image/Realisations/Impala-PHOTO-copie.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Impala PHOTO.jpeg">
+            <img src="image/Realisations/Impala-PHOTO.jp2">
         </div>
         <div class="photo photos">
             <img src="image/Realisations/L&JR 2 PHOTO.png">
@@ -97,13 +97,13 @@
             <img src="image/Realisations/L&JR PHOTO.png">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Motors &co PHOTO copie.jpeg">
+            <img src="image/Realisations/Motors&co-PHOTO-copie.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Motors &co PHOTO.jpeg">
+            <img src="image/Realisations/Motors&co-PHOTO.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Paris PHOTO.jpeg">
+            <img src="image/Realisations/Paris-PHOTO.jp2">
         </div>
         <div class="photo motion">
             <video width="400" height="190" controls>

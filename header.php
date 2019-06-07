@@ -21,10 +21,6 @@
           <svg width="31" height="31">
                   <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
           </svg>
-          <a href="news.php">NEWS</a>
-          <svg width="31" height="31">
-                  <rect x="15" y="-5" width="10" height="10" transform="rotate(45)" />
-          </svg>
           <a href="contact.php">CONTACT</a>
           <div class="topnav-right">
               <a href="https://www.youtube.com/channel/UCjq0mQHVEfTHfHK3Ml8xhcg"><i class="fab fa-youtube"></i></a>

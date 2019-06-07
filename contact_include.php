@@ -23,7 +23,7 @@
             </div>
             <div class="contact">
                 <h4>UN RENDEZ-VOUS, UNE QUESTION, UN CAFE ?</h4>
-                <form class="form">
+                <form class="form" method="post" action="mail.php">
                     <div class="premier">
                         <div class="societe">
                             <label for="societe">SOCIETE</label>
@@ -58,6 +58,7 @@
                         <label for="message">MESSAGE*</label>
                         <textarea name="message" rows="4" required></textarea>
                     </div>
+                    <input type="submit">
                 </form>
             </div>
         </div>

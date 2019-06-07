@@ -95,7 +95,7 @@
                     <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
                     <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
                 </div>
-                <div class="row">
+                <div class="row" id="row_red">
                     <div class="col">VIDEO CORPORATE</div>
                     <div class="col">VIDEO EVENEMENTIEL</div>
                     <div class="col">VIDEO EDITORIALE</div>
