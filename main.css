@@ -59,7 +59,7 @@ li.circle::before {
 .giphy {
     width: 75%;
     height: 100%;
-    filter: invert(0.9); 
+    filter: invert(0.4);
 }
 
 .row {
@@ -314,12 +314,23 @@ textarea {
   }
   
   .navba a {
-    font-size: 16px;
+    font-size: 20px;
     color: black;
     text-align: center;
     text-decoration: none;
-    padding: 7px 7px;
+    padding: 7px 10px;
   }
+
+.navba a:nth-child(2) {
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
+.navba a:nth-child(3), .navba a:nth-child(4) {
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
   
   .dropdow {
     display: inline-block;
@@ -327,14 +338,15 @@ textarea {
   }
   
   .dropdow .dropbt {
-    font-size: 16px;  
+    font-size: 20px;  
     border: none;
     outline: none;
     color: black;
-    padding: 7px 7px;
+    padding: 7px 10px;
     background-color: inherit;
     font-family: inherit;
-    margin: 0;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   .navba a:hover, .dropdow:hover .dropbt, a:active {
