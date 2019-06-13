@@ -23,9 +23,7 @@
           </svg>
           <a href="contact.php">CONTACT</a>
           <div class="topnav-right">
-              <a href="https://www.youtube.com/channel/UCjq0mQHVEfTHfHK3Ml8xhcg"><i class="fab fa-youtube"></i></a>
-              <a href="https://www.instagram.com/on.conception/"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-facebook-square"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://www.youtube.com/channel/UCjq0mQHVEfTHfHK3Ml8xhcg" target="_blank"><i class="fab fa-youtube"></i></a>
+              <a href="https://www.instagram.com/on.conception/" target="_blank"><i class="fab fa-instagram"></i></a>
           </div>
-      </div>
+</div>

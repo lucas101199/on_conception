@@ -31,18 +31,18 @@
                     Toutes les étapes de création du motion sont réalisées en interne.</p>
                 <div class="motion">
                     <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/L&JR MOTION.mp4#t=2">
+                        <video width="350" height="190" controls preload="metadata" poster="image/Realisations/L&JR MOTION_Moment.jpg">
+                            <source src="image/Realisations/L&JR MOTION.mp4">
                         </video>
                     </div>
                     <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Slow Motion MOTION.mp4#t=3">
+                        <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Slow Motion MOTION_Moment.jpg">
+                            <source src="image/Realisations/Slow Motion MOTION.mp4">
                         </video>
                     </div>
                     <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Your Concept By MOTION.mov#t=4">
+                        <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Your Concept By MOTION_Moment.jpg">
+                            <source src="image/Realisations/Your Concept By MOTION.mov">
                         </video>
                     </div>
                 </div>

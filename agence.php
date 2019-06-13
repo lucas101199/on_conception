@@ -90,10 +90,10 @@
             <br />
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
-                    <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
-                    <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
-                    <div class="col"><iframe src="https://giphy.com/embed/l0MYLRryvpO6q5dFC" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
+                    <div class="col"><iframe src="image/gif.gif" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
+                    <div class="col"><iframe src="image/gif.gif" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
+                    <div class="col"><iframe src="image/gif.gif" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
+                    <div class="col"><iframe src="image/gif.gif" frameBorder="0" class="giphy" allowFullScreen></iframe></div>
                 </div>
                 <div class="row" id="row_red">
                     <div class="col">VIDEO CORPORATE</div>

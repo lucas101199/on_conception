@@ -42,21 +42,21 @@
             <img src="image/Realisations/DM performance PHOTO.png">
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/DM Performance FILM.mov#t=8">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/DM Performance FILM_Moment.jpg">
+                <source src="image/Realisations/DM Performance FILM.mov">
             </video>
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov#t=8">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Evo Luxury Joaillerie FILM_Moment.jpg">
+                <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov">
             </video>
         </div>
         <div class="photo photos">
             <img src="image/Realisations/Evoluxury 2 PHOTO.png">
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Evoluxury Full Version FILM.mov#t=14">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Evoluxury Full Version FILM_Moment.jpg">
+                <source src="image/Realisations/Evoluxury Full Version FILM.mov">
             </video>
         </div>
         <div class="photo photos">
@@ -84,13 +84,13 @@
             <img src="image/Realisations/L&JR 5 PHOTO.png">
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/L&JR Baselworld 2019 FILM_Moment.jpg">
                 <source src="image/Realisations/L&JR Baselworld 2019 FILM.mov">
             </video>
         </div>
         <div class="photo motion">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/L&JR MOTION.mp4#t=2">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/L&JR MOTION_Moment.jpg">
+                <source src="image/Realisations/L&JR MOTION.mp4">
             </video>
         </div>
         <div class="photo photos">
@@ -100,14 +100,14 @@
             <img src="image/Realisations/Motors&co-PHOTO-copie.jp2">
         </div>
         <div class="photo photos">
-            <img src="image/Realisations/Motors&co-PHOTO.jp2">
+            <img src="image/Realisations/Motors&Co-PHOTO.jp2">
         </div>
         <div class="photo photos">
             <img src="image/Realisations/Paris-PHOTO.jp2">
         </div>
         <div class="photo motion">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Slow Motion MOTION.mp4#t=3">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Slow Motion MOTION_Moment.jpg">
+                <source src="image/Realisations/Slow Motion MOTION.mp4">
             </video>
         </div>
         <div class="photo photos">
@@ -126,8 +126,8 @@
             <img src="image/Realisations/swiss wash 6 PHOTO.png">
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Swiss Wash FILM.mov#t=16">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Swiss Wash FILM_Moment.jpg">
+                <source src="image/Realisations/Swiss Wash FILM.mov">
             </video>
         </div>
         <div class="photo photos">
@@ -140,18 +140,18 @@
             <img src="image/Realisations/SWISSWash 8 PHOTO.jpg">
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Teaser Swiss Wash FILM.mp4#t=1">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Teaser Swiss Wash FILM_Moment.jpg">
+                <source src="image/Realisations/Teaser Swiss Wash FILM.mp4">
             </video>
         </div>
         <div class="photo film">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Viquo Deco FILM.mp4#t=4">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Viquo Deco FILM_Moment.jpg">
+                <source src="image/Realisations/Viquo Deco FILM.mp4" type="video/mp4">
             </video>
         </div>
         <div class="photo motion">
-            <video width="400" height="190" controls>
-                <source src="image/Realisations/Your Concept By MOTION.mov#t=4">
+            <video width="400" height="190" controls preload="metadata" poster="image/Realisations/Your Concept By MOTION_Moment.jpg">
+                <source src="image/Realisations/Your Concept By MOTION.mov">
             </video>
         </div>
     </div>

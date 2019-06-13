@@ -33,13 +33,13 @@
                         <img src="image/Realisations/DM performance 2 PHOTO.png">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/DM Performance PHOTO copie 2.jp2">
+                        <img src="image/Realisations/DM-Performance-PHOTO-copie-2.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/DM performance PHOTO copie.jp2">
+                        <img src="image/Realisations/DM-performance-PHOTO-copie.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Dm Performance PHOTO.jp2">
+                        <img src="image/Realisations/Dm-Performance-PHOTO.jp2">
                     </div>
                     <div class="foto">
                         <img src="image/Realisations/DM performance PHOTO.png">
@@ -51,13 +51,13 @@
                         <img src="image/Realisations/Evoluxury PHOTO.png">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Horlogerie PHOTO.jp2">
+                        <img src="image/Realisations/Horlogerie-PHOTO.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Impala PHOTO copie.jp2">
+                        <img src="image/Realisations/Impala-PHOTO-copie.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Impala PHOTO.jp2">
+                        <img src="image/Realisations/Impala-PHOTO.jp2">
                     </div>
                     <div class="foto">
                         <img src="image/Realisations/L&JR 2 PHOTO.png">
@@ -75,13 +75,13 @@
                         <img src="image/Realisations/L&JR PHOTO.png">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Motors &co PHOTO copie.jp2">
+                        <img src="image/Realisations/Motors&co-PHOTO-copie.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Motors &Co PHOTO.jp2">
+                        <img src="image/Realisations/Motors&Co-PHOTO.jp2">
                     </div>
                     <div class="foto">
-                        <img src="image/Realisations/Paris PHOTO.jp2">
+                        <img src="image/Realisations/Paris-PHOTO.jp2">
                     </div>
                     <div class="foto">
                         <img src="image/Realisations/swiss wash 2 PHOTO.png">

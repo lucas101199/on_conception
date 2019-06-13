@@ -31,39 +31,39 @@
                     Créons le cadre, et let the sunshine in - Laissez vous guider.</p>
                 <div class="film">
                     <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/DM Performance FILM.mov#t=8">
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/DM Performance FILM_Moment.jpg">
+                <source src="image/Realisations/DM Performance FILM.mov">
+            </video>
+                    </div>
+                    <div class="file">
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Evo Luxury Joaillerie FILM_Moment.jpg">
+                <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov">
+            </video>
+                    </div>
+                    <div class="file">
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Evoluxury Full Version FILM_Moment.jpg">
+                <source src="image/Realisations/Evoluxury Full Version FILM.mov">
+            </video>
+                    </div>
+                    <div class="file">
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/L&JR Baselworld 2019 FILM_Moment.jpg">
+                <source src="image/Realisations/L&JR Baselworld 2019 FILM.mov">
+            </video>
+                    </div>
+                    <div class="file">
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Swiss Wash FILM_Moment.jpg">
+                <source src="image/Realisations/Swiss Wash FILM.mov">
+            </video>
+                    </div>
+                    <div class="file">
+                        <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Teaser Swiss Wash FILM_Moment.jpg">
+                            <source src="image/Realisations/Teaser Swiss Wash FILM.mp4">
                         </video>
                     </div>
                     <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Evo Luxury Joaillerie FILM.mov#t=8">
-                        </video>
-                    </div>
-                    <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Evoluxury Full Version FILM.mov#t=14">
-                        </video>
-                    </div>
-                    <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/L&JR Baselworld 2019 FILM.mov">
-                        </video>
-                    </div>
-                    <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Swiss Wash FILM.mov#t=16">
-                        </video>
-                    </div>
-                    <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Teaser Swiss Wash FILM.mp4#t=1">
-                        </video>
-                    </div>
-                    <div class="file">
-                        <video width="350" height="190" controls>
-                            <source src="image/Realisations/Viquo Deco FILM.mp4#t=4">
-                        </video>
+                    <video width="350" height="190" controls preload="metadata" poster="image/Realisations/Viquo Deco FILM_Moment.jpg">
+                <source src="image/Realisations/Viquo Deco FILM.mp4" type="video/mp4">
+            </video>
                     </div>
                 </div>
             </div>
