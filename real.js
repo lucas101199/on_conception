@@ -7,6 +7,12 @@ function filterSelection(c) {
     w3RemoveClass(x[i], "show");
     if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
   }
+  if (c == "all" || c =="") {
+    w3RemoveClass(x[0], "show");
+    w3RemoveClass(x[1], "show");
+    w3RemoveClass(x[2], "show");
+}
+  
 }
 
 function w3AddClass(element, name) {
@@ -34,10 +40,12 @@ function w3RemoveClass(element, name) {
 // Add active class to the current button (highlight it)
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
+
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function(){
     var current = document.getElementsByClassName("active");
     current[0].className = current[0].className.replace(" active", "");
     this.className += " active";
   });
+    
 }

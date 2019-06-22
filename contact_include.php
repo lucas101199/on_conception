@@ -83,7 +83,7 @@ EOT;
             //but you shouldn't display errors to users - process the error, log it on your server.
             $msg = 'Sorry, something went wrong. Please try again later.' . $e->ErrorMessage();
         } else {
-            $msg = 'Message envoyé ! Merci de nous avoir contacter.';
+            $msg = 'Message envoyé ! Merci de nous avoir contacté.';
         }
     } else {
         $msg = 'Invalid email address, message ignored.';

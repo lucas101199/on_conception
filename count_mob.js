@@ -1,7 +1,5 @@
-var launch =true;
-var i = 0;
 
-while(i != 1) {
+
 //premier compteur jusqu a 127
 var n = 127; // Nombre final du compteur
 var cpt = 0; // Initialisation du compteur
@@ -10,7 +8,7 @@ var delta = Math.ceil((duree * 1000) / n);
 var node =  document.getElementById("compteur1");
 
 function countdown() {
-   if (launch) return false;
+   
     node.innerHTML = ++cpt;
     if( cpt < n ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
        setTimeout(countdown, delta);
@@ -27,7 +25,7 @@ var delta1 = Math.ceil((duree1 * 1000) / n1);
 var node1 =  document.getElementById("compteur2");
 
 function countdown1() {
-   if (launch) return false;
+  
    var nombre = ++cpt1*10;
     node1.innerHTML = nombre.toLocaleString("de-CH");
     if( cpt1*10 < n1 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
@@ -45,7 +43,7 @@ var delta3 = Math.ceil((duree * 1000) / n3);
 var node3 =  document.getElementById("compteur3");
 
 function countdown3() {
-   if (launch) return false;
+   
     node3.innerHTML = ++cpt3;
     if( cpt3 < n3 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
        setTimeout(countdown3, delta3);
@@ -62,7 +60,7 @@ var delta4 = Math.ceil((duree4 * 1000) / n4);
 var node4 =  document.getElementById("compteur4");
 
 function countdown4() {
-   if (launch) return false;
+   
    var nombre = ++cpt4*16;
     node4.innerHTML = nombre.toLocaleString("de-CH");
     if( cpt4*16.816 < n4 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
@@ -80,7 +78,7 @@ var delta5 = Math.ceil((duree * 1000) / n5);
 var node5 =  document.getElementById("compteur5");
 
 function countdown5() {
-   if (launch) return false;
+   
     node5.innerHTML = ++cpt5;
     if( cpt5 < n5 ) { // Si on est pas arrivé à la valeur finale, on relance notre compteur une nouvelle fois
        setTimeout(countdown5, delta5);
@@ -89,5 +87,4 @@ function countdown5() {
    
   setTimeout(countdown5, delta5);
   
-i++;
-} 
+  

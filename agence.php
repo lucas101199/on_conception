@@ -4,7 +4,7 @@
     <title>ON CONCEPTION</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
     
     <!-- Bootstrap CSS -->
     
@@ -21,6 +21,7 @@
         <div class="main_agence">
             <div class="section">
                 <h1 id="title"> L'AGENCE ON CONCEPTION </h1>
+                <div class="blanc">
                 <p>ON c'est la position d'un bouton marche/arrêt. ON c'est l'homme en général, les gens , 
                     l'opinion. <br />
                     ON c'est moi et toi, c'est nous et vous, ensemble.
@@ -30,7 +31,7 @@
         
                 <p>ON c'est surtout un studio de conception qui conceptualise et matérialise, avec un malin plaisir, des univers 
                     visuels atypiques et éclectiques qui sauront inspirer une image de marque solide et différenciante.  </p>
-        
+                </div>
                 <div class="photo_agence">
                     <img src="image/Capture d’écran 2019-05-14 à 10.45.18.png" alt="" />
                     <img src="image/Capture d’écran 2019-05-14 à 10.46.51.png" alt="" />

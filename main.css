@@ -7,6 +7,7 @@ body {
     color: white;
     background-color: black; 
     margin-left: 5%;
+    font-family: "Gill Sans", sans-serif;
 }
 
 .section {
@@ -19,6 +20,7 @@ body {
     position: sticky;
     position: -webkit-sticky;
     top: 10;
+    right: 20px;
 }
 
 .main_agence, .main_film, .main_motion, .main_photos {
@@ -59,7 +61,6 @@ li.circle::before {
 .giphy {
     width: 75%;
     height: 100%;
-    filter: invert(0.4);
 }
 
 .row {
@@ -83,11 +84,18 @@ a {
 .topnav-right {
     float: right;
     margin-top: 19px;
+    padding: 0;
+    margin-right: 35px;
 }
 
 .topnav-right a{
     color: black;
     size: 20px;
+   	margin-right: -20px;
+}
+
+.topnav-right a:nth-child(2) {
+    padding: 0;
 }
 
 rect {
@@ -311,15 +319,15 @@ textarea {
     width: 100%;
     margin-top: 2%;
     padding-top: 2px;
-  }
+}
   
-  .navba a {
+.navba a {
     font-size: 20px;
     color: black;
     text-align: center;
     text-decoration: none;
     padding: 7px 10px;
-  }
+}
 
 .navba a:nth-child(2) {
     margin-left: 35px;
@@ -332,61 +340,17 @@ textarea {
     
 }
   
-  .dropdow {
-    display: inline-block;
-    overflow: hidden;
-  }
-  
-  .dropdow .dropbt {
-    font-size: 20px;  
-    border: none;
-    outline: none;
-    color: black;
-    padding: 7px 10px;
-    background-color: inherit;
-    font-family: inherit;
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-  
-  .navba a:hover, .dropdow:hover .dropbt, a:active {
+.navba a:hover, a:active {
     border: 1px solid black;
     border-radius: 50%;
-  }
-  
-  .dropdown-conten {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 100px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-    border: 1px solid black;
-    border-radius: 15%;
-    width: 110px;
-  }
-  
-  .dropdown-conten a {
-    float: none;
-    color: black;
-    height: 32px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .dropdown-conten a:hover {
-    font-weight: bold;
-    border: none;
-    background-color: #f9f9f9; 
-  }
-  
-  .dropdow:hover .dropdown-conten {
-    display: block;
 }
 
-.topnav-right a:hover, .navba a:first-of-type{
+.topnav-right a:hover, .navba a:first-of-type {
     border: none;
+}
+
+.topnav-right a:first-of-type {
+    padding: 0;
 }
 
 .photo_agence img {
@@ -419,13 +383,17 @@ textarea {
 
 .photo img, .photo video{
     float: left;
-    width: 400px;
     height: 240px;
     margin-left: 1%;
     margin-bottom: 1%;
 }
 
 .photo {
+    display: none;
+    
+}
+
+.texte {
     display: none;
 }
 
@@ -467,23 +435,129 @@ textarea {
     font-size: 20px;
 }
 
-.film, .motion, ._photos {
+.film, .motion, .photos {
     margin-top: 6%;
-}
-
-.foto img{
-    float: left;
-    width: 340px;
-    height: 190px;
-    margin-left: 1%;
-    margin-bottom: 1%;
 }
 
 .container-fluid {
     margin-bottom: 15%;
     margin-top: 10%;
+    background-color: white;
+    color: black;
 }
 
 #row_red {
     color: red;
 }
+
+.text {
+    float: left;
+    width: 350px;
+    height: 240px;
+}
+
+.film {
+    margin-right: 12px;
+}
+
+.motion {
+    margin-right: 12px;
+}
+
+  
+  img {
+    cursor: pointer;
+    margin: 1em;
+    border-radius: 0.25em;
+  }
+  
+  img:hover {
+    opacity: .7;
+    transition: opacity .3s ease-out;
+  }
+  
+  .modal img:hover {
+    opacity: 1;
+  }
+  
+  .desc, #caption {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 1em;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.8); /* Black w/ opacity */
+  }
+  
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+  
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  
+  .modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  
+  @-webkit-keyframes zoom {
+    from {
+      transform: scale(0);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes zoom {
+    from {
+      transform: scale(0.1);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover, .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .contenu {
+      width: 98%;
+  }
